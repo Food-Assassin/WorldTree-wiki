@@ -7,7 +7,7 @@
   - [服务器游戏规则](rule/gamerule.md)
 - 叶世界
   - [玩家](world/player.md)
-  - [管理人员](world/Administrators.md)
+  - [管理人员](world/administrators.md)
   - [领地](world/ld.md)
   - [装饰](world/zs.md)
   - [大事记](world/record.md)
