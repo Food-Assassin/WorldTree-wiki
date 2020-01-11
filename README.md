@@ -4,7 +4,7 @@
 
 ### 请在左侧侧边栏进行查询使用~
 
-!> 这是'世界树'服务器的wiki，  
+!> 这是 '世界树' 服务器的wiki，  
 如要查询minecraft游戏本身内容，  
 请前往：[minecraft中文wiki站](https://minecraft-zh.gamepedia.com/Minecraft_Wiki)
 
