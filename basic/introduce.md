@@ -10,6 +10,6 @@
 目前正在筹划阶段。  
 如果你想帮助我们，详见[职位申请](rule/apply.md)
 
-服务器服主是：*'FoodAssassin'*
+服务器服主是：*`FoodAssassin`*
 
-*'FoodAssassin'与'FoodAssassim'并不是同一人*
+> *`FoodAssassin`与`FoodAssassim`并不是同一人*
