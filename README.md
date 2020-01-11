@@ -8,6 +8,11 @@
 如要查询minecraft游戏本身内容，  
 请前往：[minecraft中文wiki站](https://minecraft-zh.gamepedia.com/Minecraft_Wiki)
 
+本wiki是利用docsify进行搭建，利用github保存数据
+
 > 特别感谢：  
 *nayycat服务器组*  
 给我们的wiki教学支持
+
+wiki管理员：  
+*`FoodAssassin`*
