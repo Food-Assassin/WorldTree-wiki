@@ -1,7 +1,15 @@
 - 基本  
+  - [介绍](basic/introduce.md)
   - [玩家闲聊平台](basic/chat.md)
 - 规则
   - [审核](rule/gs.md)
-  - [职位申请](rule/apply.md)  
-
+  - [职位申请](rule/apply.md) 
+  - [服务器游戏规则](rule/gamerule.md)
+- 叶世界
+  - [玩家](world/player.md)
+  - [管理人员](world/Administrators.md)
+  - [领地](world/ld.md)
+  - [装饰](world/zs.md)
+  - [大事记](world/record.md)
+  - [更新日志](world/update.md)
 （正在填充中...）
