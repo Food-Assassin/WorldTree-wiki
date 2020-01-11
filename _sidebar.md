@@ -4,7 +4,9 @@
 - 规则
   - [审核](rule/gs.md)
   - [职位申请](rule/apply.md) 
+  - [工作手册](rule/workrule.md)
   - [服务器游戏规则](rule/gamerule.md)
+  - [仲裁](rule/trial.md)
 - 叶世界
   - [玩家](world/player.md)
   - [管理人员](world/administrator.md)
