@@ -8,7 +8,7 @@
   - [服务器游戏规则](rule/gamerule.md)
   - [仲裁](rule/trial.md)
 - 叶世界
-  - [玩家](world/player.md)
+  - [人员登记](world/player.md)
   - [玩家聚落](world/ld.md)
   - [特色](world/characteristic.md)
   - [大事记](world/record.md)
