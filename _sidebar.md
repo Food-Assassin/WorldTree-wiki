@@ -9,11 +9,8 @@
   - [仲裁](rule/trial.md)
 - 叶世界
   - [玩家](world/player.md)
-  - [管理人员](world/administrator.md)
   - [玩家聚落](world/ld.md)
   - [特色](world/characteristic.md)
-  - [装饰](world/zs.md)
-  - [雪球菜单](world/menu.md)
   - [大事记](world/record.md)
   - [更新日志](world/update.md)  
 （正在填充中...）
