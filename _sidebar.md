@@ -15,5 +15,5 @@
   - [更新日志](world/update.md)  
 - 其他
   - [捐赠](other/donation.md)
-  - [日期记录](other/record.md)
+  - [日期记录](other/record.md)  
 （正在填充中...）
