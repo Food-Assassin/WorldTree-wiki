@@ -6,8 +6,8 @@
 不影响服务器的运行与发展，  
 使管理人员真真正正的为了玩家。
 
-在服务器拥有op权限的统一参照[op](rule/wokerule.md#op);  
-创造模式参照[创造](rule/wokerule.md#创造)；  
+在服务器拥有op权限的统一参照[op](rule/workrule.md#op);  
+创造模式参照[创造](rule/workrule.md#创造)；  
 其他职位单独显示。
 
 !> 注意，这里没有提到的并不是全部，其他情况启动[仲裁制](rule/trial.md)  
