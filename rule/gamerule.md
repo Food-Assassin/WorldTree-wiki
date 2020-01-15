@@ -27,9 +27,10 @@
 
 过审玩家可以进入地狱，  
 可以申请[聚落](world/ld.md)  
-可以使用[雪球菜单](world/characteristic.md#雪球菜单)的[world/characteristic.md#玩家互传]以及[装饰](world/characteristic.md#装饰)功能，  
+可以使用[雪球菜单](world/characteristic.md#雪球菜单)的[玩家互传](world/characteristic.md#玩家互传)以及[装饰](world/characteristic.md#装饰)功能，  
 活动范围为以（0,0）为圆心的10000格以内，  
 激活[成就系统](world/characteristic.md#成就)。  
+可提起[仲裁](rule/trial.md)  
 可使用活塞、发射器、投掷器等未审核者禁用物品  
 
 !> 这并不代表可以利用高频红石卡服务器！ 
@@ -46,10 +47,11 @@
 受到很大的限制  
 如被禁用活塞，粘性活塞，发射器，投掷器..   
 不能进入地狱  
-不能使用[雪球菜单](world/characteristic.md#雪球菜单)的[world/characteristic.md#玩家互传]以及[装饰](world/characteristic.md#装饰)功能  
+不能使用[雪球菜单](world/characteristic.md#雪球菜单)的[玩家互传](world/characteristic.md#玩家互传)以及[装饰](world/characteristic.md#装饰)功能  
 不会激活[成就系统](world/characteristic.md#成就)  
 活动范围只有以0 * 0为圆心的3000  
-不能申请[聚落](world/ld.md)    
+不能申请[聚落](world/ld.md)  
+不可提起[仲裁](rule/trial.md)  
 未过审玩家请尽可能地参加[审核](rule/gs.md)  
 未过审玩家并不代表我们不会对你进行管理，  
 未过审玩家依然会受到服务器管控，请自觉行事
