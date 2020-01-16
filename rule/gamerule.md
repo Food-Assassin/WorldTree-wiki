@@ -29,7 +29,7 @@
 可以申请[聚落](world/ld.md)  
 可以使用[雪球菜单](world/characteristic.md#雪球菜单)的[玩家互传](world/characteristic.md#玩家互传)以及[装饰](world/characteristic.md#装饰)功能，  
 活动范围为以（0,0）为圆心的10000格以内，  
-激活[成就系统](world/characteristic.md#成就)。  
+激活[成就系统](world/characteristic.md#成就)  
 可提起[仲裁](rule/trial.md)  
 可使用活塞、发射器、投掷器等未审核者禁用物品  
 
