@@ -29,6 +29,7 @@
 对我们的服务器管理与建设提供的指导与帮助  
 【[憨批服务器-专业的我的世界bds官服！](https://www.mchanpi.cn:4433/)】  
   
+?> 特别感谢：  
 *nayycat喵窝服务器组*  
 给我们的wiki教学支持  
 【[喵窝|NyaaCat社区](https://www.nyaa.cat/)】
