@@ -9,6 +9,8 @@
 
 #### 请在左侧侧边栏进行查询使用~
 
+[介绍](basic/introduce.md)  [审核](rule/gs.md)  [玩家闲聊平台](basic/chat.md)  
+
 如果发现bug的话，请联系wiki管理员
 
 ?> wiki管理员：  
