@@ -9,7 +9,10 @@
 
 #### 请在左侧侧边栏进行查询使用~
 
-[介绍](basic/introduce.md)  [审核](rule/gs.md)  [玩家闲聊平台](basic/chat.md)  
+了解服务器基本信息 - [介绍](basic/introduce.md)  
+了解服务器特殊元素 - [特色元素介绍](world/characteristic.md)
+想长期在服务器游玩 - [审核](rule/gs.md)  
+与其他玩家交流 - [玩家闲聊平台](basic/chat.md)  
 
 如果发现bug的话，请联系wiki管理员
 
