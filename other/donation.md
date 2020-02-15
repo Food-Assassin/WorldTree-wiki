@@ -7,15 +7,17 @@
 
 我们承诺，无非不可抗力，无非不可逆转，无非走投无路，绝不停服
 
+!> 烦请各位在捐赠时留下名字，可以让我们确认是捐赠资金
+
 * * *
 
 ## 微信
 
-![image](https://github.com/Food-Assassin/WorldTree-wiki/blob/master/IMG20200105141630.jpg)
+![image](https://github.com/Food-Assassin/WorldTree-wiki/blob/master/picture/IMG20200105141630.jpg)
 
 ## 支付宝
 
-![image](https://github.com/Food-Assassin/WorldTree-wiki/blob/master/IMG20200105141734.jpg)
+![image](https://github.com/Food-Assassin/WorldTree-wiki/blob/master/picture/IMG20200105141734.jpg)
 
 * * *
 
