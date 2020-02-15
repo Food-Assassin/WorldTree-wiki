@@ -17,11 +17,11 @@
 
 ## 微信
 
-![image](https://github.com/Food-Assassin/WorldTree-wiki/blob/master/picture/IMG20200105141630.jpg)
+![item](../../picture/IMG20200105141630.jpg)
 
 ## 支付宝
 
-![image](https://github.com/Food-Assassin/WorldTree-wiki/blob/master/picture/IMG20200105141734.jpg)
+![item](../../picture/IMG20200105141734.jpg)
 
 * * *
 
