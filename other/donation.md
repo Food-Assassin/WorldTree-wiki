@@ -17,11 +17,11 @@
 
 ## 微信
 
-![item](../../picture/IMG20200105141630.jpg)
+![item](../../picture/微信.jpg)
 
 ## 支付宝
 
-![item](../../picture/IMG20200105141734.jpg)
+![item](../../picture/支付宝.jpg)
 
 * * *
 
