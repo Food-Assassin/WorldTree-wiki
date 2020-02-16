@@ -7,7 +7,7 @@
   - [工作手册](rule/workrule.md)
   - [服务器游戏规则](rule/gamerule.md)
   - [仲裁](rule/trial.md)
-- 叶世界
+- M1世界
   - [人员登记](world/player.md)
   - [玩家聚落](world/ld.md)
   - [特殊元素介绍](world/characteristic.md)
