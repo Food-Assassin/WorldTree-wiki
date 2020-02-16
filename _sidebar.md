@@ -1,4 +1,4 @@
-- 基本  
+﻿- 基本  
   - [介绍](basic/introduce.md)
   - [玩家闲聊平台](basic/chat.md)
 - 规则
@@ -10,7 +10,7 @@
 - 叶世界
   - [人员登记](world/player.md)
   - [玩家聚落](world/ld.md)
-  - [特色](world/characteristic.md)
+  - [特殊元素介绍](world/characteristic.md)
   - [大事记](world/record.md)
   - [更新日志](world/update.md)  
 - 其他
