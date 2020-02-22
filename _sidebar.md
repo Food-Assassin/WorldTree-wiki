@@ -10,6 +10,7 @@
 - M1世界
   - [人员登记](world/player.md)
   - [玩家聚落](world/ld.md)
+  - [原生居民记录](world/NPC.md)
   - [特殊元素介绍](world/characteristic.md)
   - [大事记](world/record.md)
   - [更新日志](world/update.md)  
