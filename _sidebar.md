@@ -1,6 +1,7 @@
 ﻿- 基本  
   - [介绍](basic/introduce.md)
   - [玩家闲聊平台](basic/chat.md)
+  - [宣传栏](basic/partner.md)
 - 规则
   - [审核](rule/gs.md)
   - [职位申请](rule/apply.md) 
