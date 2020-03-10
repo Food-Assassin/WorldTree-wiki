@@ -15,3 +15,5 @@
 服务器服主是：*`FoodAssassin`*
 
 *`FoodAssassin`与`FoodAssassim`并不是同一人*
+
+!> [不喜欢我们？](basic/partner.md)
