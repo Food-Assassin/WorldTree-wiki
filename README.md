@@ -11,9 +11,11 @@
 
 了解服务器基本信息 - [介绍](basic/introduce.md)  
 了解服务器特殊元素 - [特色元素介绍](world/characteristic.md)  
+了解服务器更新内容 - [更新日志](world/update.md)
 想长期在服务器游玩 - [审核](rule/gs.md)  
 与其他玩家交流 - [玩家闲聊平台](basic/chat.md)  
 帮助我们 - [职位申请](rule/apply.md)或[捐赠](other/donation.md)
+不喜欢我们？ - [宣传栏](basic/partner.md)
 
 如果发现bug的话，请联系wiki管理员
 
