@@ -1,11 +1,11 @@
 # 介绍
 
-服务器名：亚德尔大陆
-内部代码：MS1-yraddaeleu
-类型：网易基岩服
-编号:79794798
-性质：公益但接受捐赠
-服主：*`FoodAssassin`*
+服务器名：亚德尔大陆  
+内部代码：MS1-yraddaeleu  
+类型：网易基岩服  
+编号:79794798  
+性质：公益但接受捐赠  
+服主：*`FoodAssassin`*  
 
 *`FoodAssassin`与`FoodAssassim`并不是同一人*
 
