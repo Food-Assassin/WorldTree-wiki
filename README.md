@@ -22,7 +22,7 @@
 ?> wiki管理员：  
 *`FoodAssassin`* *`萌萌`*
 
-!> 这是`WorldTree`服务器的专用wiki站点，  
+!> 这是`WorldTree`服务器组的专用wiki站点，  
 如要查询minecraft游戏本身内容，  
 请前往：[minecraft中文wiki站](https://minecraft-zh.gamepedia.com/Minecraft_Wiki)
 
