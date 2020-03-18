@@ -1,4 +1,4 @@
-﻿- 基本  
+- 基本  
   - [介绍](basic/introduce.md)
   - [玩家闲聊平台](basic/chat.md)
   - [宣传栏](basic/partner.md)
@@ -8,13 +8,16 @@
   - [工作手册](rule/workrule.md)
   - [服务器游戏规则](rule/gamerule.md)
   - [仲裁](rule/trial.md)
-- M1世界
-  - [人员登记](world/player.md)
-  - [玩家聚落](world/ld.md)
-  - [原生居民记录](world/NPC.md)
-  - [特殊元素介绍](world/characteristic.md)
-  - [大事记](world/record.md)
-  - [更新日志](world/update.md)  
+- 亚德尔大陆
+  - [介绍](world/MS1/introduce.md)
+  - [人员登记](world/MS1/player.md)
+  - [玩家聚落](world/MS1/ld.md)
+  - [原生居民记录](world/MS1/NPC.md)
+  - [特殊元素介绍](world/MS1/characteristic.md)
+  - [大事记](world/MS1/record.md)
+  - [更新日志](world/MS1/update.md)  
+- MS2世界
+  - [介绍](world/MS2/introduce.md)
 - 其他
   - [捐赠](other/donation.md)
   - [捐赠记录](other/dr.md)
