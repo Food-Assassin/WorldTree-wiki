@@ -1,4 +1,4 @@
-- 基本  
+﻿- 基本  
   - [介绍](basic/introduce.md)
   - [玩家闲聊平台](basic/chat.md)
   - [宣传栏](basic/partner.md)
@@ -14,6 +14,7 @@
   - [玩家聚落](world/MS1/ld.md)
   - [原生居民记录](world/MS1/NPC.md)
   - [特殊元素介绍](world/MS1/characteristic.md)
+  - [特殊物品介绍](world/MS1/item.md)
   - [大事记](world/MS1/record.md)
   - [更新日志](world/MS1/update.md)  
 - MS2世界
