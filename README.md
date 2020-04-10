@@ -1,7 +1,5 @@
 !> wiki正在填充中...
 
-## 逝者安息
-
 * * *
 
 # 欢迎来到WorldTree Wiki
@@ -9,7 +7,7 @@
 #### 请在左侧侧边栏进行查询使用~
 
 了解 WorldTree - [介绍](basic/introduce.md)    
-了解更新内容 - [更新日志](world/MS1/update.md)  
+了解更新内容 - [更新日志](world/MS1/update/update2.md)  
 想长期游玩 - [审核](rule/gs.md)  
 与其他玩家交流 - [玩家闲聊平台](basic/chat.md)  
 帮助我们 - [职位申请](rule/apply.md)或[捐赠](other/donation.md)  
