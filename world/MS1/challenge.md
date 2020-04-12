@@ -17,6 +17,12 @@
 	      <td>3</td>
         <td>√</td>
 	  </tr>
+	<tr align="center">
+	      <td>单体</td>
+	      <td>『身怀六甲』</td>
+	      <td>21</td>
+        <td>√</td>
+	  </tr>
 	  <tr align="center">
 	      <td>单体</td>
 	      <td>『我要空气！！！』</td>
