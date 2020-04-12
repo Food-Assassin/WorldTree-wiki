@@ -29,8 +29,7 @@
 过审玩家可以进入地狱，  
 可以申请[聚落](world/MS1/ld.md)  
 可以使用[雪球菜单](world/MS1/characteristic.md#雪球菜单)的[玩家互传](world/MS1/characteristic.md#玩家互传)功能，  
-活动范围为以（0,y,0）为圆心的10000格以内，  
-可激活[成就系统](world/MS1/characteristic.md#成就)的所有成就  
+活动范围为以（0,y,0）为圆心的10000格以内，    
 可提起[仲裁](rule/trial.md)  
 可使用活塞、投掷器等未审核者禁用物品  
 
@@ -48,8 +47,7 @@
 受到很大的限制  
 如被禁用活塞，粘性活塞，投掷器..   
 不能进入地狱  
-不能使用[雪球菜单](world/MS1/characteristic.md#雪球菜单)的[玩家互传](world/MS1/characteristic.md#玩家互传)功能  
-只能激活[成就系统](world/MS1/characteristic.md#成就)的部分成就  
+不能使用[雪球菜单](world/MS1/characteristic.md#雪球菜单)的[玩家互传](world/MS1/characteristic.md#玩家互传)功能    
 活动范围只有以（0,y,0）为圆心的3000格以内  
 不能申请[聚落](world/MS1/ld.md)  
 不可提起[仲裁](rule/trial.md)  
