@@ -16,7 +16,7 @@
 如果发现bug的话，请联系wiki管理员
 
 ?> wiki管理员：  
-*`FoodAssassin`* *`萌萌`*
+*`FoodAssassin`* *`星璃璃`*
 
 !> 这是`WorldTree`服务器组的专用wiki站点，  
 如要查询minecraft游戏本身内容，  
