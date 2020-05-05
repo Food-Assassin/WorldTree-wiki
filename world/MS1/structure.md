@@ -12,5 +12,6 @@
 |结构名|可用人群|介绍|
 |:-:|:-:|:-:|
 |魔力提取|通用|[魔力提取](world/MS1/structure/xp.md)|
+|融合|通用|[融合](world/MS1/structure/fuse.md)|
 
 * * *
