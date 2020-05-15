@@ -1,11 +1,9 @@
 # 介绍
   
-内部代码：MS2-wgemiimnign  
-类型：网易基岩服  
-编号：3570126  
+服务器名：洛卷卷的游戏空间  
+内部代码：MS2-lyuooujxuiaknojnugajnidaen  
+类型：网易基岩服   
 性质：公益但接受捐赠  
-服主：*`FoodAssassin`*  
-
- *`FoodAssassin` 与 `FoodAssassim` 并不是同一人*
+服主：*`没名字的洛卷卷`*  
 
 服务器正在搭建中...
