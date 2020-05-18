@@ -17,7 +17,7 @@
   - [特殊物品介绍](world/MS1/item.md)
   - [大事记](world/MS1/record.md)
   - [更新日志](world/MS1/update/update2.md)  
-- MS2世界
+- 洛卷卷的游戏空间
   - [介绍](world/MS2/introduce.md)
 - 其他
   - [捐赠](other/donation.md)
