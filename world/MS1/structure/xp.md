@@ -11,7 +11,7 @@
 		<th colspan="3">魔力提取</th>
 	</tr>
 	<tr>
-		<td colspan="3" align="center"><img src="https://raw.githubusercontent.com/T-TP/WorldTree-wiki/master/picture/%E9%AD%94%E5%8A%9B%E6%8F%90%E5%8F%96.png" width="300px" height="300px"/></td>
+		<td colspan="3" align="center"><img src="https://thumbnail0.baidupcs.com/thumbnail/04d1f876du4c7439e2d03aecabebb444?fid=1516069493-250528-400874255363682&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-dLtrD9YlInDr75%2f29A5x2wLCudk%3d&expires=8h&chkbd=0&chkv=0&dp-logid=4921121761964696881&dp-callid=0&time=1596139200&size=c1366_u768&quality=90&vuk=1516069493&ft=image&autopolicy=1" width="300px" height="300px"/></td>
 	</tr>
 	<tr>
 		<td align="center">介绍</td>
