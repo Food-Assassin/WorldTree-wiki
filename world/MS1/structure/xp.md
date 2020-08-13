@@ -11,7 +11,7 @@
 		<th colspan="3">魔力提取</th>
 	</tr>
 	<tr>
-		<td colspan="3" align="center"><img src="https://thumbnail0.baidupcs.com/thumbnail/04d1f876du4c7439e2d03aecabebb444?fid=1516069493-250528-400874255363682&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-dLtrD9YlInDr75%2f29A5x2wLCudk%3d&expires=8h&chkbd=0&chkv=0&dp-logid=4921121761964696881&dp-callid=0&time=1596139200&size=c1366_u768&quality=90&vuk=1516069493&ft=image&autopolicy=1" width="300px" height="300px"/></td>
+		<td colspan="3" align="center"><img src="http://qungz.photo.store.qq.com/qun-qungz/V503diBA008JKb26XH4l3UMN6s1Wff77/V5bCQAyMjkxNjE1OTS8ozRftZEFEw!!/800?w5=800&h5=803&rf=viewer_421&t=5" width="300px" height="300px"/></td>
 	</tr>
 	<tr>
 		<td align="center">介绍</td>
